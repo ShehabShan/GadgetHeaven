@@ -1,0 +1,104 @@
+[
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://rajshahitech.com/wp-content/uploads/2023/11/Galaxy-S23-Ultra-Lavender-5788.jpg",
+    "category": "Smartphones",
+    "price": 1399,
+    "description": "Experience the most powerful smartphone ever with the Galaxy S23 Ultra.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Qualcomm Snapdragon 8 Gen 2 processor",
+      "Quad-camera system (50MP Main, 12MP Telephoto, 10MP Wide-angle, 12MP Periscope)",
+      "LiDAR Scanner",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 2
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Apple MacBook Pro (14-inch, 2023)",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1sZYEC1bVu7jolHgw0vudVawvsFZV0slHg&s",
+    "category": "Laptops",
+    "price": 1999,
+    "description": "The most powerful MacBook Pro ever, with a new M2 Pro chip and a stunning Liquid Retina display.",
+    "specification": [
+      "14.2-inch Liquid Retina display with 120Hz ProMotion",
+      "Apple M2 Pro chip",
+      "Up to 32GB unified memory",
+      "Up to 2TB SSD storage",
+      "MagSafe 3 charging port"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://www.sony.com/is/image/gwtprod/942609f36382af7dd7b2cb9a10f541ec?fmt=png-alpha&wid=515&hei=515&trf=trim",
+    "category": "Headphones",
+    "price": 350,
+    "description": "The industry-leading noise-canceling headphones, with improved sound quality and a new ergonomic design.",
+    "specification": [
+      "Industry-leading noise cancellation",
+      "High-resolution audio with LDAC codec",
+      "Up to 30 hours of battery life",
+      "Customizable touch controls",
+      "Comfortable and ergonomic design"
+    ],
+    "availability": true,
+    "rating": 3.6
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Nintendo Switch OLED",
+    "product_image": "https://cdn.shopify.com/s/files/1/0630/5362/7541/files/10007457_1.jpg?v=1728635602",
+    "category": "Consoles",
+    "price": 350,
+    "description": "The upgraded Nintendo Switch with a brighter and more vibrant OLED screen.",
+    "specification": [
+      "7-inch OLED screen",
+      "NVIDIA Custom Tegra SoC",
+      "64GB internal storage",
+      "Wireless LAN",
+      "Bluetooth"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Canon EOS R50",
+    "product_image": "https://digitalshopbd.com/public/uploads/all/a23XNP0lnDPk88ff2l7G5tc8iAPgVU30KyL6nvZ4.jpg",
+    "category": "Cameras",
+    "price": 1000,
+    "description": "The perfect entry-level mirrorless camera for aspiring photographers and videographers.",
+    "specification": [
+      "26.2MP APS-C sensor",
+      "30fps continuous shooting",
+      "10-stop image stabilization",
+      "Vari-angle LCD touchscreen",
+      "Wi-Fi and Bluetooth connectivity"
+    ],
+    "availability": false,
+    "rating": 4.54
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Canon EOS R50",
+    "product_image": "https://digitalshopbd.com/public/uploads/all/a23XNP0lnDPk88ff2l7G5tc8iAPgVU30KyL6nvZ4.jpg",
+    "category": "Cameras",
+    "price": 1000,
+    "description": "The perfect entry-level mirrorless camera for aspiring photographers and videographers.",
+    "specification": [
+      "26.2MP APS-C sensor",
+      "30fps continuous shooting",
+      "10-stop image stabilization",
+      "Vari-angle LCD touchscreen",
+      "Wi-Fi and Bluetooth connectivity"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
