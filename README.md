@@ -1,6 +1,7 @@
 # Mobile Selling Website
 
-![Mobile Selling Website]([https://your-image-url.com](https://i.ibb.co.com/DPQ75Kz9/Screenshot-2025-02-05-183158.png))  
+<img src="https://i.ibb.co/DPQ75Kz9/Screenshot-2025-02-05-183158.png" alt="Mobile Selling Website" />
+
 
 This is a mobile-selling website project built with React, Tailwind CSS, and various third-party libraries. It provides a seamless experience for users to browse and purchase mobile devices, featuring a responsive UI and interactive elements.
 
