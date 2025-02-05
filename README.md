@@ -31,11 +31,6 @@ The project includes the following dependencies:
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <project-folder>
 
 
 
